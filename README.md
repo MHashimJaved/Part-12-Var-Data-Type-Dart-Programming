@@ -6,3 +6,5 @@ Example 1 variable declaration:
 Declaring var data as alphabetic way:
 ![image](https://user-images.githubusercontent.com/53869097/221819144-0c03df58-812e-4183-8961-3e91339b6ac9.png)
 
+Var data type in numeric way:
+![image](https://user-images.githubusercontent.com/53869097/221820410-77ab0a80-7beb-4404-9f01-6b743d8b17ae.png)
