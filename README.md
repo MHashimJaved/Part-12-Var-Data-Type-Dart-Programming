@@ -8,3 +8,7 @@ Declaring var data as alphabetic way:
 
 Var data type in numeric way:
 ![image](https://user-images.githubusercontent.com/53869097/221820410-77ab0a80-7beb-4404-9f01-6b743d8b17ae.png)
+
+This is the most powerful var data type where we learn that when we execute realtime data to check whether the data is stored or not in the mobile app:
+![image](https://user-images.githubusercontent.com/53869097/221823847-3842e178-b73e-4b5f-b07a-968dfd6b3edf.png)
+
